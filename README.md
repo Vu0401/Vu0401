@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vu Le Thanh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate Data Scientist</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 - 💬 Ask me about **Machine learning | Deep learning**
 
 - 📫 How to reach me **levu040102@gmail.com**
