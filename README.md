@@ -4,6 +4,6 @@
 
 - 💬 Ask me about **Machine learning | Deep learning**
 
-- 📫 How to reach me **levu040102@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/vuzle/)**
 
 
